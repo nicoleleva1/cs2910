@@ -1,14 +1,7 @@
 Nicole Vance
-Hw7
+Hw8
 
-Why did I pick this framework?
-    I picked this framework because I asked ChatGPT the main differences between the frames and it said that React has a ton of tutorials, which I thought could be useful in the long run. Though, the MDN website provided a ton of detail and walkthrough.
+I liked that there was a step-by-step walkthrough on how to use React. I felt the MDN website was very user and beginner friendly. I did have some issues with their instructinos though. For the most part they were very clear, but at times it would tell you to add a function in a very unspecific spot on the JSX file. There were many times when I either had a blank page, or the error page that shows you JSX file has an error. So I did have to utilize ChatGpt in those situations because I did not know where to put the code.
+Either than that it was cool and fun seeing it all come together. 
 
-What difficulties did I run into, and was I able to overcome it?
-    This side of the project was very simple. There were no difficulties encountered because the walkthrough was very clear and detailed. I did have to step out of my comfort zone though and learn git, which I stayed after and talked to you about(thank you!).
-
-Something entertaining?
-    The problem with Git jokes is that everyone has their own version.
-    
-    Why don't bachelors like Git? 
-        Because they are afraid to commit. 
+<img width="444" height="445" alt="image" src="https://github.com/user-attachments/assets/b9a98c9f-2278-483a-a79c-c64aa7898e8d" />
