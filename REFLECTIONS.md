@@ -14,4 +14,5 @@ Something entertaining?
         Because they are afraid to commit. 
 
 
-<img width="400" height="271" alt="image" src="https://github.com/user-attachments/assets/ea1768fc-b60d-45e2-a9e2-dd05db86137a" />
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/09f968a5-5710-4f0a-b59e-f9a0c14f307f" />
+
