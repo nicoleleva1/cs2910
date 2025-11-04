@@ -12,3 +12,6 @@ Something entertaining?
     
     Why don't bachelors like Git? 
         Because they are afraid to commit. 
+
+
+<img width="400" height="271" alt="image" src="https://github.com/user-attachments/assets/ea1768fc-b60d-45e2-a9e2-dd05db86137a" />
